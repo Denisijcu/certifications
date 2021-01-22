@@ -11,8 +11,10 @@ body {
 }
 
 .author {
-         font-size:14px;
-         color: green;
+         font-size:44px;
+         color: white;
+         background-color: black;
+         width: 60%;
       }
 a {
   color: #333;
@@ -24,6 +26,7 @@ a {
   margin: auto;
   overflow: auto;
   padding: 0 2rem;
+  
 }
 
 .main-header {
@@ -91,6 +94,7 @@ img {
 .btn:hover {
   opacity: 0.8;
 }
+
 
 
 
